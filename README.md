@@ -1,8 +1,6 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%20👋%2C%20I'm%20Samuel%20Agbokpo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%26%20Cloud%20Engineer&descAlignY=60&descSize=24" width="100%" alt="header"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+reliable%2C+scalable+cloud+platforms;Kubernetes+%7C+Terraform+%7C+Ansible+%7C+CI%2FCD;Automating+everything.+Shipping+faster.;Open+to+freelance+projects+%26+remote+roles+worldwide" alt="Typing SVG" />
 </a>
